@@ -1,16 +1,18 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=H-Sen&fontSize=90&fontColor=black)
 
-<!--
-**Hong-Sen/Hong-Sen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
 
-Here are some ideas to get you started:
+### 👋 Hi,there 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hong-sen&show_icons=true&theme=radical&count_private=true)
+
+### ✨Tech Stack✨
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)        ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)   
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hong-sen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### My BOJ stats
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heboja99)](https://solved.ac/chrisais9)
+
+</div>
