@@ -13,6 +13,6 @@
 
 ### My BOJ stats
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heboja99)](https://solved.ac/chrisais9)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=heboja99)](https://solved.ac/heboja99)
 
 </div>
